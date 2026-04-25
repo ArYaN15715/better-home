@@ -1,0 +1,25 @@
+{
+  "overview": "A premium, mobile-first demo website for Better Home – Real Estate Consultant, a real estate brand based in Ahmedabad (Bopal). Designed to impress clients instantly with cinematic animations, conversion-focused lead capture, and a polished orange-and-white visual identity.",
+  "features": [
+    "Cinematic hero with parallax zoom and stagger animations",
+    "Interactive property listings with hover lift and ripple effects",
+    "Smart filter bar for Budget, Location, and Type",
+    "Lead capture form with instant callback CTA",
+    "Trust bar with social proof metrics",
+    "Sticky mobile bottom CTA bar (Call, WhatsApp, Get Options)",
+    "Fake testimonials for demo social proof",
+    "Why Choose Us value props",
+    "Mobile-first 375px optimized layout"
+  ],
+  "category": "real-estate",
+  "tags": [
+    "real-estate",
+    "landing-page",
+    "mobile-first",
+    "demo",
+    "lead-generation",
+    "ahmedabad",
+    "conversion"
+  ],
+  "last_updated": "2026-04-17T07:38:25.427Z"
+}
